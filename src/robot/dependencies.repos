@@ -1,0 +1,14 @@
+repositories:
+
+  # TurtleBot3 Repo
+  # https://github.com/ROBOTIS-GIT/turtlebot3/pull/916
+  turtlebot3:
+    type: git
+    url: https://github.com/ROBOTIS-GIT/turtlebot3.git
+    version: humble-devel
+
+  turtlebot3_simulations:
+    type: git
+    url: https://github.com/ROBOTIS-GIT/turtlebot3_simulations.git
+    version: humble-devel
+

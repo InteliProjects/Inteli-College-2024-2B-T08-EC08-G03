@@ -1,0 +1,8 @@
+{
+  "label": "Negócios",
+  "position": 3,
+  "link": {
+      "type": "generated-index",
+      "description": "Registro do desenvolvimento sobre a ótica de Negócios do projeto durante a sprint 1." 
+  }
+}

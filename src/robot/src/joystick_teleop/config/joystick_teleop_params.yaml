@@ -1,0 +1,8 @@
+teleop_joystick:
+  ros__parameters:
+    axis_linear: 1 # Eixo para movimento linear (exemplo: eixo Y do joystick)
+    axis_angular: 0 # Eixo para movimento angular (exemplo: eixo X do joystick)
+    deadzone_linear: 0.2 # Deadzone para o eixo linear
+    deadzone_angular: 0.3 # Deadzone para o eixo angular
+    scale_linear: 0.21 # Escala para velocidade linear
+    scale_angular: 2.7 # Escala para velocidade angular
